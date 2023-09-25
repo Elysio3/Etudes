@@ -1,0 +1,6 @@
+[submodule "ORT"]
+	path = ORT
+	url = https://github.com/Elysio3/ORT.git
+[submodule "BTS-SIO"]
+	path = BTS-SIO
+	url = https://github.com/Elysio3/BTS-SIO.git
